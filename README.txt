@@ -1,31 +1,49 @@
-Paradigm Shift by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Personal Portfolio Website
 
+This repository contains my personal portfolio website, built to showcase my
+projects, skills, and experience as a Computer Science student.
 
-Say hello to Paradigm Shift, my first addition to HTML5 UP in more than a year (!!!).
-Took things in a slightly different direction with this one, partly to mess with CSS
-grid (which this one relies on pretty heavily) but mostly to get back to making weirder
-and more experimental designs/layouts. Anyway, hope you dig it, and thanks for the
-continued support despite the lack of updates :)
+## 🌐 Live Website
+https://aahiro.github.io/Personal-Website/
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## 📌 About
+This site highlights:
+- My technical background and interests
+- Selected software and machine learning projects
+- Links to live demos and source code
+- Contact information
 
-(* = not included)
+The website is built using an HTML5 UP template and customized with my own
+content and styling.
 
-AJ
-aj@lkn.io | @ajlkn
+## 🚀 Featured Projects
 
+### NBA Game Predictor
+- Machine learning model using a Random Forest classifier
+- Utilizes rolling statistical features derived from historical NBA data
+- Trained and tested on past seasons to predict game outcomes  
+🔗 GitHub: https://github.com/Aahiro/NBA-Game-Predictor
 
-Credits:
+### Movie Review Website
+- Full-stack web application built with MongoDB, Node.js, and HTML/CSS
+- Users can search for movies, write and delete reviews
+- Includes a thumbs-up / thumbs-down rating system  
+🔗 Frontend: https://replit.com/@roofaiCS/Frontend  
+🔗 Backend: https://replit.com/@roofaiCS/Backend
 
-	Demo Images:
-		Unsplash (unsplash.com)
+## 🛠 Technologies Used
+- HTML / CSS / JavaScript
+- Python
+- Machine Learning (Random Forest)
+- MongoDB
+- Node.js
+- Git & GitHub
+- GitHub Pages
 
-	Icons:
-		Font Awesome (fontawesome.io)
+## 📬 Contact
+- Email: roofaioo7@gmail.com
+- Phone: 519-981-8025
 
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+---
+
+© Aahir. All rights reserved.
